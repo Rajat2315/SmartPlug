@@ -1,0 +1,2 @@
+C:/Users/rajat/AuthTest/android/app/.cxx/RelWithDebInfo/602zd3a1/x86/CMakeFiles/edit_cache.dir
+C:/Users/rajat/AuthTest/android/app/.cxx/RelWithDebInfo/602zd3a1/x86/CMakeFiles/rebuild_cache.dir

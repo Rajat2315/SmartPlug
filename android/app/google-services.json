@@ -1,0 +1,54 @@
+{
+  "project_info": {
+    "project_number": "825525843669",
+    "project_id": "ecoplugauth",
+    "storage_bucket": "ecoplugauth.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:825525843669:android:bc9b331b041322da2b945c",
+        "android_client_info": {
+          "package_name": "com.example.authtest"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "825525843669-uhpn07etfm4u7pt5vqt1b4m7d68v6toa.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.authtest",
+            "certificate_hash": "a2e32f3cecc47b7cee504b7b113a6dde74c5b8e4"
+          }
+        },
+        {
+          "client_id": "825525843669-dt91jakf70tpos6kipgk3u9dc68ghq18.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDbxkBdes0xx_epC8vNvh8bGjbNmo8RIQg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "825525843669-dt91jakf70tpos6kipgk3u9dc68ghq18.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "825525843669-52mdbggkki0cgnnntpi0ig72ovtgbu80.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.authtest"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
